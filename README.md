@@ -1,5 +1,5 @@
 # Business-Insights-360
-This project is an integral part of the Code Basics "Data Analytics Bootcamp", and focuses on the insights of a hardware manufacturing company called "Atliq Hardware". 
+This project is an integral part of the Code Basics "Data Analytics Bootcamp", focusing on the insights of a hardware manufacturing company called "Atliq Hardware". 
 
 # 🔍Overview 
 Atliq Hardware is a rapidly growing company that operates across various countries and regions, offering diverse hardware products to many customers. Atliq encountered several challenges while analyzing data from multiple collective sources which involved Excel, SQL, and CSV files. During certain periods, Atliq faced huge losses due to these obstacles, so they decided to change their approach to making business decisions for sustainable growth in the enormously growing competitive world.
