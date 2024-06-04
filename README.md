@@ -37,5 +37,5 @@ This project execution is fabricated through different levels:
 ▶ Analyzing P & L Statements.
 
 # 🚀LIVE Dashboard Link: 
-https://app.powerbi.com/view?r=eyJrIjoiZjUzOTgwYWQtYzVjOS00NDA3LTg1MjItZTQ4NzQyYjNkOGJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+[https://app.powerbi.com/view?r=eyJrIjoiZjUzOTgwYWQtYzVjOS00NDA3LTg1MjItZTQ4NzQyYjNkOGJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9](https://app.powerbi.com/view?r=eyJrIjoiZjUzOTgwYWQtYzVjOS00NDA3LTg1MjItZTQ4NzQyYjNkOGJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=2573f617db22d7334790)
 
