@@ -17,11 +17,11 @@ This project execution is fabricated through different levels:
 🔸Iterative data validation and stakeholder feedback integration for continuous improvement.
 
 # 📊Building the Dashboard: Addressing the stakeholder's requirements, the following dashboards have been built-
-**Finance View**: I engineered a dynamic P&L table structure using DAX queries that enabled the creation of slicers for flexible data filtering.
-𝑺𝒂𝒍e𝒔 𝑽𝒊𝒆𝒘: Decode customer and product performances influenced by Net Sales and Gross Margin Percentage.
-𝑴𝒂𝒓𝒌𝒆𝒕𝒊𝒏𝒈 𝑽𝒊𝒆𝒘: Similar data as of Sales View but product-based instead of customers.
-𝑺𝒖𝒑𝒑𝒍𝒚 𝑪𝒉𝒂𝒊𝒏 𝑽𝒊𝒆𝒘: Supply Chain reports will help executives keep an eye on Inventory Forecasts and Net Error.
-𝑬𝒙𝒆𝒄𝒖𝒕𝒊𝒗𝒆 𝑽𝒊𝒆𝒘: Access strategic insights by consolidated view of all the reports together
+➡Finance View: I engineered a dynamic P&L table structure using DAX queries that enabled the creation of slicers for flexible data filtering.
+➡Sales View: Decode customer and product performances influenced by Net Sales and Gross Margin Percentage.
+➡Marketing View: Similar data as of Sales View but product-based instead of customers.
+➡Supply Chain View: Supply Chain reports will help executives keep an eye on Inventory Forecasts and Net Errors.
+➡Executive View: Access strategic insights by consolidated view of all the reports together
  
 # 🛠Tools Used:
 💻Microsoft Excel
